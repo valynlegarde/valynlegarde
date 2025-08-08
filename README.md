@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Valyn Legarde and I'm a BSIS student! </h2>
+<h2 align="left">Hi 👋! My name is Valyn and I'm a BSIS student! </h2>
 
 ###
 
